@@ -1,0 +1,28 @@
+### Software Development Engineer in Test Interview
+
+#### Task 
+User should be able to add a book to the basket and verify the correct book is added
+
+#### Objectives
+- Create feature file using Gherkin syntax
+- Create step definitions and link these to the feature file
+- Write implementation which links both pieces up
+- Create TestRunner to run test 
+- Make sure the test passes
+
+Password to log in as:
+Username: repltechtest@gmail.com
+Password: ReplT3st.
+
+#### How to create an app password. You will need this to connect via Git.
+To create an app password:
+
+- Select your avatar (Your profile and settings) in the upper-right corner of the top navigation. 
+- Select Personal settings from the Your profile and settings dropdown menu.
+- Select App passwords under Access management.
+- Select Create app password.
+- Give the app password a name related to the application that will use the password.
+- Select the specific access and permissions you want this application password to have.
+- Copy the generated password and either record or paste it into the application you want to give access. The password is only displayed this one time.
+
+Good Luck!
